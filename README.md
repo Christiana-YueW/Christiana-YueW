@@ -12,19 +12,29 @@
 
 I'm a software engineer focused on backend systems, cloud infrastructure, and deployment automation.
 
-My academic and professional background started in chemistry and research-driven environments, where I learned to approach problems carefully, analytically, and with strong attention to detail. Over time, I found myself drawn to software engineering because I wanted to learn modern computing technologies, build things, and use them to solve practical real-world problems.
+My academic and professional background started in chemistry and research-driven environments, where I learned to approach problems carefully, analytically, and with strong attention to detail. Over time, I was drawn to software engineering because it gave me a more direct way to build useful systems and solve practical real-world problems.
 
 Today, my work is centered on backend development, AWS-based cloud infrastructure, CI/CD workflows, and asynchronous services. I enjoy building reliable systems that connect application logic, data, cloud services, and operational tooling into complete engineering workflows.
 
 ---
 
+## ✨ Quick Highlights
+
+- Backend / Platform / Full-Stack engineer focused on cloud-native systems
+- Built a 3-repo cloud project family covering application, infrastructure, and async services
+- Experienced with Python, FastAPI, PostgreSQL, AWS, Terraform, CI/CD, and deployment automation
+- Seeking opportunities to build scalable backend systems and practical cloud-native applications
+
+---
+
 ## 🧩 What I Work On
 
-- Backend services with Python, Java, and relational databases
+- Backend services with Python and relational databases
 - REST APIs and database-backed applications
 - AWS infrastructure provisioning with Terraform
 - CI/CD pipelines and deployment automation
 - Async workflows that connect APIs, storage, and cloud services
+- React-based frontend interfaces with component-driven UI and client-side validation
 
 ---
 
@@ -43,13 +53,13 @@ A cloud-native project family that showcases backend development, infrastructure
 
 ---
 
-## 🚀 Other Projects
+## 📌 Additional Projects
 
 - **Healthcare API and Reporting System**  
   Multi-user Java + MySQL + Express application with REST APIs, normalized database design, and Tableau-based reporting.
 
 - [INFO6150-frontend](https://github.com/Christiana-YueW/INFO6150-frontend)  
-  Frontend coursework covering React, JavaScript, accessibility, and UI engineering fundamentals.
+  Frontend coursework and projects using React, JavaScript, responsive design, accessibility, component-based UI development, and client-side form validation.
 
 ---
 
@@ -71,21 +81,11 @@ A cloud-native project family that showcases backend development, infrastructure
 
 ---
 
-## 🎯 Engineering Interests
-
-- Backend API design
-- Cloud-native application development
-- Infrastructure as code
-- CI/CD and deployment automation
-- Serverless and event-driven systems
-- Scalable, maintainable software engineering
-
----
-
 ## 🌱 Currently
 
-- Building stronger backend and cloud engineering projects
-- Looking for Backend, Platform, and Full-Stack Software Engineering opportunities
+- Building stronger backend and cloud-native engineering projects
+- Deepening my experience in AWS, infrastructure automation, and deployment workflows
+- Seeking Backend, Platform, and Full-Stack Software Engineering opportunities
 
 ---
 
