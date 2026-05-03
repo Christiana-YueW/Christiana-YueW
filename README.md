@@ -40,15 +40,17 @@ Today, my work is centered on backend development, AWS-based cloud infrastructur
 
 ## ☁️ Cloud Project Family
 
+For a system-level overview of this project family, see the [CSYE6225 Cloud Project Showcase](https://github.com/csye6225YueWu).
+
 A cloud-native project family that showcases backend development, infrastructure as code, and asynchronous service design across three repositories:
 
-- [cloud-native-webapp](https://github.com/Christiana-YueW/cloud-native-webapp)  
+- [cloud-native-webapp](https://github.com/csye6225YueWu/cloud-native-webapp)  
   FastAPI backend with PostgreSQL, authenticated user APIs, S3 integration, metrics, and deployment pipeline support.
 
-- [terraform-cloud-infra](https://github.com/Christiana-YueW/terraform-cloud-infra)  
+- [terraform-cloud-infra](https://github.com/csye6225YueWu/terraform-cloud-infra)  
   Terraform-managed AWS infrastructure for networking, compute, storage, security, database, and serverless integration.
 
-- [cloud-serverless](https://github.com/Christiana-YueW/cloud-serverless)  
+- [cloud-serverless](https://github.com/csye6225YueWu/cloud-serverless)  
   AWS Lambda workflow for asynchronous event processing, verification, and cloud service integration.
 
 ---
