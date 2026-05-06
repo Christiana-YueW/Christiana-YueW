@@ -14,7 +14,7 @@ I'm a software engineer focused on backend systems, cloud infrastructure, and de
 
 My academic and professional background started in chemistry and research-driven environments, where I learned to approach problems carefully, analytically, and with strong attention to detail. Over time, I was drawn to software engineering because it gave me a more direct way to build useful systems and solve practical real-world problems.
 
-Today, my work is centered on backend development, AWS-based cloud infrastructure, CI/CD workflows, and asynchronous services. I enjoy building reliable systems that connect application logic, data, cloud services, and operational tooling into complete engineering workflows.
+Today, my work is centered on backend development, AWS-based cloud infrastructure, CI/CD workflows, asynchronous services, and data-backed application design. I enjoy building reliable systems that connect application logic, data, cloud services, and operational tooling into complete engineering workflows.
 
 ---
 
@@ -22,6 +22,7 @@ Today, my work is centered on backend development, AWS-based cloud infrastructur
 
 - Backend / Platform / Full-Stack engineer focused on cloud-native systems
 - Built a 3-repo cloud project family covering application, infrastructure, and async services
+- Developed a healthcare data platform combining relational database design, dashboard interaction, and reporting workflows
 - Experienced with Python, FastAPI, PostgreSQL, AWS, Terraform, CI/CD, and deployment automation
 - Seeking opportunities to build scalable backend systems and practical cloud-native applications
 
@@ -35,6 +36,7 @@ Today, my work is centered on backend development, AWS-based cloud infrastructur
 - CI/CD pipelines and deployment automation
 - Async workflows that connect APIs, storage, and cloud services
 - React-based frontend interfaces with component-driven UI and client-side validation
+- Data platforms and reporting-oriented application workflows
 
 ---
 
@@ -57,8 +59,8 @@ A cloud-native project family that showcases backend development, infrastructure
 
 ## 📌 Additional Projects
 
-- **Healthcare API and Reporting System**  
-  Multi-user Java + MySQL + Express application with REST APIs, normalized database design, and Tableau-based reporting.
+- [healthcare-data-platform](https://github.com/Christiana-YueW/healthcare-data-platform)  
+  Healthcare operations data platform combining normalized relational database design, SQL workflows, an Express-based dashboard, and Tableau reporting assets.
 
 - [INFO6150-frontend](https://github.com/Christiana-YueW/INFO6150-frontend)  
   Frontend coursework and projects using React, JavaScript, responsive design, accessibility, component-based UI development, and client-side form validation.
